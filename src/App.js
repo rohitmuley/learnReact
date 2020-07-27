@@ -17,8 +17,13 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a> 
       </header>
+      <div>
+      <h1>Hello, World!!</h1>
+        <p>This is a paragraph. And it is the king of the world!!
+        </p>
+    </div>
     </div>
   );
 }
