@@ -7,7 +7,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   
     <div>
-      <h1>Hello, World!!<h1>
+      <h1>Hello, World!!</h1>
         <p>This is a paragraph. And it is the king of the world!!
         </p>
     </div>
