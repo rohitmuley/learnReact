@@ -16,7 +16,7 @@ ReactDOM.render(
   <React.StrictMode>
     <NewApp />
   </React.StrictMode>,
-  document.getElementById('root');
+  document.getElementById('root')
     
  
 );
