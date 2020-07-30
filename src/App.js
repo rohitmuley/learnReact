@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import NewApp from './NewApp';
 
 function App() {
   return (
@@ -25,7 +26,12 @@ function App() {
         </p>
     </div>
     </div>
-  );
+    <NewApp />
+
+  )
+  
+
+  
 }
 
 export default App;
