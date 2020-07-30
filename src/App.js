@@ -25,9 +25,10 @@ function App() {
         <p>This is a paragraph. And it is the king of the world!!
         </p>
     </div>
-    </div>
     <NewApp />
 
+    </div>
+    
   )
   
 
